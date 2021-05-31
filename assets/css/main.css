@@ -1781,8 +1781,8 @@ input, select, textarea {
 
 	.profile-picture {
 		border-radius: 50%;
-		width: 200px;
-		height: 200px;
+		width: 250px;
+		height: 250px;
 		/* margin: 100px 0px 10px 100px; */
 		border-color: rgba(0, 0, 0, 0.125);
 		border-style: solid;
